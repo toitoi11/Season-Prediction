@@ -8,3 +8,6 @@ K-means clustering with customizable weighting of features (e.g., temperature, r
 3D visualization of clusters
 Season prediction for new weather data
 Adjustable number of clusters (currently set to 4 for four seasons: Winter, Spring, Summer, and Fall)
+
+
+![image](https://github.com/user-attachments/assets/4b7e86cf-1409-46ac-8fe6-16c950db1daa)
