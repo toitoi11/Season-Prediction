@@ -1,8 +1,9 @@
 # Season-Prediction
-Description
+
+# Description:
 This project uses K-means clustering to group weather data (such as temperature, rainfall, and humidity) into distinct seasons. The clustering algorithm can predict the season for new weather data based on the trained model. The project is built using Python and uses libraries like scikit-learn for clustering and matplotlib for data visualization.
 
-Features:
+# Features:
 K-means clustering with customizable weighting of features (e.g., temperature, rainfall, humidity)
 3D visualization of clusters
 Season prediction for new weather data
